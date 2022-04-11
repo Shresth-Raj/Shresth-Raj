@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shresth-Raj
-- 👀 I’m interested in python.
+- 👀 I’m interested in python c and c++.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on github.
 - 📫 Don't Reach Me.
